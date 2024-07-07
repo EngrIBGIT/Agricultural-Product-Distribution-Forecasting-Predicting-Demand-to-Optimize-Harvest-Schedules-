@@ -124,8 +124,8 @@ See the first five rows of the data, to get a glimpse of its content.
 ![](1st5.PNG)
 
 ![](Agricultural_Product_Distribution_Forecasting_Predicting_Demand_to_Optimize_Harvest_Schedules_and_Distribution.ipynb)
-##
-https://github.com/EngrIBGIT/Agricultural-Product-Distribution-Forecasting-Predicting-Demand-to-Optimize-Harvest-Schedules-/blob/main/Agricultural_Product_Distribution_Forecasting_Predicting_Demand_to_Optimize_Harvest_Schedules_and_Distribution.ipynb
-##
 
+
+## The Below Link is The code showing the analysis, insights and machine learning
+https://github.com/EngrIBGIT/Agricultural-Product-Distribution-Forecasting-Predicting-Demand-to-Optimize-Harvest-Schedules-/blob/main/Agricultural_Product_Distribution_Forecasting_Predicting_Demand_to_Optimize_Harvest_Schedules_and_Distribution.ipynb
 ##
